@@ -44,15 +44,15 @@
 
 .image-container {
   -webkit-transition: all .5s ease;
-  -webkit-filter: grayscale(99%);
+  -webkit-filter: grayscale(70%);
   -moz-transition: all .5s ease;
-  -o-filter: grayscale(99%);
+  -o-filter: grayscale(70%);
   -o-transition: all .5s ease;
   -ms-transition: all .5s ease;
-  -ms-filter: grayscale(99%);
+  -ms-filter: grayscale(70%);
   transition: all .5s ease;
   padding: 3px;
-  filter: grayscale(99%);
+  filter: grayscale(70%);
   opacity: .99; 
 }
  
