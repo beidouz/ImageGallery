@@ -46,7 +46,7 @@
   transition: all .5s ease;
   padding: 3px;
   filter: grayscale(99%);
-  opacity: 0.9; 
+  opacity: .99; 
 }
  
 .image-container:hover {
