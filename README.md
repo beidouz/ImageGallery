@@ -1,2 +1,1 @@
-A minimal dynamic responsive image gallery
-https://beidouz.github.io/ImageGallery/
+A minimal dynamic responsive image gallery<br />https://beidouz.github.io/ImageGallery/
